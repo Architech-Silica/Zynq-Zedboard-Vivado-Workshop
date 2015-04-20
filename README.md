@@ -3,7 +3,7 @@
 A Zynq Workshop for Beginners
 -----------------------------
 
-A workshop for beginners who are starting to use the Xilinx Zynq SoC devices.  This version of the workshop targets the [Avnet ZedBoard](https://www.zedboard.org).
+A workshop for beginners who are starting to use the Xilinx Zynq SoC devices.  This version of the workshop targets the [Avnet ZedBoard](http://www.zedboard.org).
 
 This workshop requires the [Xilinx Vivado 2014.1 tools](http://www.xilinx.com/support/download.html), or later.
 
