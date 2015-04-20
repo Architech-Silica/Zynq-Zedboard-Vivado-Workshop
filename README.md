@@ -1,2 +1,6 @@
-# Zynq_Zedboard_Vivado_Workshop
-Zynq Workshop for Beginners
+# Zynq Zedboard Vivado Workshop
+Zynq Workshop for Beginners, targetting the Avnet ZedBoard.
+
+Latest version uses Xilinx Vivado 2014.1
+
+
